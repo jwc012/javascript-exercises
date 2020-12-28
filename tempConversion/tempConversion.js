@@ -1,8 +1,8 @@
-const ftoc = function() {
+const ftoc = function(fahrenheit) {
 
 }
 
-const ctof = function() {
+const ctof = function(celsius) {
 
 }
 
